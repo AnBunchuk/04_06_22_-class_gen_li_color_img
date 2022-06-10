@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 40px;
+}
+
 ol {
     display: grid;
     list-style-type: none;
